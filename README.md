@@ -14,6 +14,8 @@
 
 **Ou seja, dada uma paleta de cores e um quadro composto por pixels, você vai permitir que quem usa consiga pintar o que quiser no quadro!** 👩‍🎨
 
+---
+
 ### 1 - A página deve possuir o título "Paleta de Cores".
 
 ##### As seguintes verificações serão feitas:
@@ -100,7 +102,7 @@
 
 - O texto do botão deve ser **"Limpar"**.
 
-## Requisitos Bônus:
+## Requisitos bônus:
 
 ### 10 - Faça o quadro de pixels ter seu tamanho definido pelo usuário.
 
